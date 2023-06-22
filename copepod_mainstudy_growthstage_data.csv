@@ -1,0 +1,13 @@
+﻿Units;Algae;Temperature;Salinity;Stage;Substage
+1-4;H.a;15;15;nauplii;N1
+5-8;H.a;15;30;nauplii;N1
+9-12;H.r;15;15;nauplii;N3 - N4
+13-16;H.r;15;30;nauplii;N3 
+17-20;Both;15;15;nauplii;N2
+21-24;Both;15;30;nauplii;N3
+25-28;H.a;22;15;nauplii;N1 - N2
+29-32;H.a;22;30;nauplii;N1 - N2
+33-36;H.r;22;15;copepodite;C2-C3
+37-40;H.r;22;30;copepodite;C2-C3
+41-44;Both;22;15;copepodite;C4
+45-48;Both;22;30;copepodite;C3-C4
